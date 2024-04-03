@@ -110,6 +110,7 @@
 #include "tests/scene/test_gradient.h"
 #include "tests/scene/test_image_texture.h"
 #include "tests/scene/test_node.h"
+#include "tests/scene/test_graph_node.h"
 #include "tests/scene/test_node_2d.h"
 #include "tests/scene/test_packed_scene.h"
 #include "tests/scene/test_path_2d.h"
